@@ -1,3 +1,4 @@
+"use client";
 // Swim Journal — Built for competitive swimmers
 // Sport-psychology grounded · Coach-voice questions · Full persistence
 import { useState, useEffect, useRef } from "react";
